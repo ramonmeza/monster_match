@@ -8,3 +8,8 @@ lib/
 
 # Addons
 addons/
+
+# Art with shitty licenses
+sprites/*.png
+sprites/*/*.png
+
